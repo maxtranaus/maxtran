@@ -1,24 +1,17 @@
 HOME PAGE: 
 
-- Turning Vision Into Reality With Code And Design. 
-- As a skilled full-stack developer, I am dedicated to turning ideas into innovative web applications. 
-Explore my latest projects and articles, showcasing my expertise in React.js and web development.
+- 
+-
 
 --------------------------------------------------------------
 
 ABOUT PAGE:
 
-- Passion Fuels Purpose! 
-- Hi, I'm CodeBucks, a web developer and UI/UX designer with a passion for creating beautiful, functional, 
-and user-centered digital experiences. With 4 years of experience in the field. I am always looking for 
-new and innovative ways to bring my clients' visions to life.
-
-- I believe that design is about more than just making things look pretty – it's about solving problems and 
-creating intuitive, enjoyable experiences for users. 
-
-- Whether I'm working on a website, mobile app, or 
-other digital product, I bring my commitment to design excellence and user-centered thinking to 
-every project I work on. I look forward to the opportunity to bring my skills and passion to your next project.
+Hi, I'm Max.
+I'm a Data Engineer living in Melbourne, Australia. 
+Passionate Data Engineer skilled in desiging ETL pipelines, optimising database management, and intergrating data in Azure and AWS environment.
+Expertise in automation, data architecture, processing, and modeling, with advanced SQL and Python skills, enable the delivery of impactful solutions.
+Successfully collaborated with clients in marketing and education to create tailored, scalable, and optimised data platforms.
 
 --------------------------------------------------------------
 
@@ -57,18 +50,14 @@ and graded exams and assignments.
 
 EDUCATION:
 
-Bachelor Of Science In Computer Science
-2016-2020 | Massachusetts Institute Of Technology (MIT)
+Diploma of Information Technology
+2022-2023 | La Trobe University
 Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial 
 Intelligence.
 
-Master Of Computer Science
-2020-2022 | Stanford University
-Completed a master's project on deep learning, developing a new neural network architecture for natural 
-language understanding.
 
-Online Coursework
-2016-2020 | Coursera And EdX
+Bachelor of Digital Media
+2010-2015 | Swinburne University
 Completed coursework in advanced topics such as Reinforcement Learning, Computer Vision, and Machine 
 Learning Engineering.
 
